@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fany Estrada</h1>
-<h3 align="center">Computer Systems Engineering student and passionate about data</h3>
+<h3 align="center">Ing. en Sistemas Computacionales y una amante de los datos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanyestag&label=Profile%20views&color=0e75b6&style=flat" alt="fanyestag" /> </p>
 
