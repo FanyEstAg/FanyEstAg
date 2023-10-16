@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fanyest93829757" target="blank"><img src="https://img.shields.io/twitter/follow/fanyest93829757?logo=twitter&style=for-the-badge" alt="fanyest93829757" /></a> </p>
 
-- 🔭 I’m currently working on **personal and scholar projects**
+- 🔭 I’m currently working on **personal and professional projects**
 
-- 🌱 I’m currently learning **Power BI, Django and Kotlin**
+- 🌱 I’m currently learning **Front-End, Azure, Power Platform**
 
 - 👯 I’m looking to collaborate on **data science, python and data analysis projects**
 
